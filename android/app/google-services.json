@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "35801355515",
+    "project_id": "carwash-3a5f9",
+    "storage_bucket": "carwash-3a5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35801355515:android:eca829f7d99b0616cf0c5e",
+        "android_client_info": {
+          "package_name": "carwash.katibuafrica.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35801355515-3n4bdp2k7dneufot0ksopjl060b1jq21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "carwash.katibuafrica.com",
+            "certificate_hash": "ec47fe47aeb4f4a0b2972bd833c1751ea2c6985e"
+          }
+        },
+        {
+          "client_id": "35801355515-aj4n35tf6a6js8gbkq6vtvs2obt4gl0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-4pGMBR6lvu0E1HNhKoa5-fEcPBs_6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35801355515-aj4n35tf6a6js8gbkq6vtvs2obt4gl0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35801355515:android:05d38484deaf12ffcf0c5e",
+        "android_client_info": {
+          "package_name": "com.example.carwash_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35801355515-aj4n35tf6a6js8gbkq6vtvs2obt4gl0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-4pGMBR6lvu0E1HNhKoa5-fEcPBs_6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35801355515-aj4n35tf6a6js8gbkq6vtvs2obt4gl0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35801355515:android:0fe98fb70e0e4291cf0c5e",
+        "android_client_info": {
+          "package_name": "com.flutter.carwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35801355515-aj4n35tf6a6js8gbkq6vtvs2obt4gl0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-4pGMBR6lvu0E1HNhKoa5-fEcPBs_6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35801355515-aj4n35tf6a6js8gbkq6vtvs2obt4gl0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

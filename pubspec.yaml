@@ -1,0 +1,76 @@
+name: carwash
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.2+3
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  flutter_bloc: ^7.0.0
+
+  animation_wrappers: ^0.0.4
+  google_maps_flutter: ^2.0.6
+  flutter_polyline_points: ^1.0.0
+  google_mobile_ads: ^0.13.2
+  equatable: ^2.0.3
+  cloud_firestore: ^2.5.3
+  firebase_core: ^1.15.0
+  firebase_auth: ^3.0.0
+  mpesa_flutter_plugin: ^1.0.0
+  firebase_storage: ^10.0.6
+  image_picker: ^0.8.5+3
+  # images_picker: ^1.2.11
+  location: ^2.0.0
+  geocoding: ^2.0.1
+  url_launcher: ^6.0.13
+  maps_launcher: ^2.0.1
+  get: ^4.1.4
+  flutter_form_builder: ^6.1.0+1
+  flutter_phone_direct_caller: ^2.1.1
+  open_mail_app: ^0.4.5
+  flutter_sms: ^2.3.3
+  fluttertoast: ^8.0.9
+  smooth_star_rating: ^1.1.1
+  firebase_messaging: ^10.0.1
+  flutter_local_notifications: ^9.7.0
+  http: ^0.13.4
+  cloud_functions: ^3.3.2
+  
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_name: ^0.0.1
+
+flutter_launcher_name:
+  name: "Car Wash"
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/imgs/
+    - assets/imgs/locationImages/
+    - assets/placeholder/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
